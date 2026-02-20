@@ -1,0 +1,17 @@
+/*
+Theme Name: StreamLine
+Theme URI: https://tvujweb.cz/
+Author: Gemini & Ty
+Description: Moderní šablona optimalizovaná pro video streamy a plugin Stream Manager.
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: streamline
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #050505;
+    color: #ffffff;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
